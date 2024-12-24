@@ -1,0 +1,3 @@
+Inference Started at 2024-11-04 15:03:46
+No GPUs found. Using CPU.
+Error loading weights: Cannot assign value to variable ' dense_24/kernel:0': Shape mismatch.The variable shape (39, 64), and the assigned value shape (52, 64) are incompatible.

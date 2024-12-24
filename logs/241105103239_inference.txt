@@ -1,0 +1,22 @@
+Inference Started at 2024-11-05 10:32:39
+No GPUs found. Using CPU.
+Action Labels: {0: 'standing', 1: 'check-watch', 2: 'cross-arms', 3: 'scratch-head', 4: 'sit-down', 5: 'get-up', 6: 'turn-around', 7: 'walking', 8: 'wave1', 9: 'boxing', 10: 'kicking', 11: 'pointing', 12: 'pick-up', 13: 'bending', 14: 'hands-clapping', 15: 'wave2', 16: 'jogging', 17: 'jumping', 18: 'pjump', 19: 'running'}
+Model architecture loaded and weights applied successfully.
+Prediction error: in user code:
+
+    File "/Users/apple/Desktop/vitpose2/Vitpose/lib/python3.9/site-packages/keras/engine/training.py", line 2041, in predict_function  *
+        return step_function(self, iterator)
+    File "/Users/apple/Desktop/vitpose2/Vitpose/lib/python3.9/site-packages/keras/engine/training.py", line 2027, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "/Users/apple/Desktop/vitpose2/Vitpose/lib/python3.9/site-packages/keras/engine/training.py", line 2015, in run_step  **
+        outputs = model.predict_step(data)
+    File "/Users/apple/Desktop/vitpose2/Vitpose/lib/python3.9/site-packages/keras/engine/training.py", line 1983, in predict_step
+        return self(x, training=False)
+    File "/Users/apple/Desktop/vitpose2/Vitpose/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "/Users/apple/Desktop/vitpose2/Vitpose/lib/python3.9/site-packages/keras/engine/input_spec.py", line 295, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "model" is incompatible with the layer: expected shape=(None, 30, 52), found shape=(None, 30, 68)
+
+Predicted Action: Error

@@ -1,0 +1,2 @@
+No GPUs found. Using CPU.
+Model setup failed: 'NoneType' object has no attribute 'load_weights'

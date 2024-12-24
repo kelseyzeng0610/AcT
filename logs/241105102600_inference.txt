@@ -1,0 +1,4 @@
+Inference Started at 2024-11-05 10:26:00
+No GPUs found. Using CPU.
+Action Labels: {0: 'standing', 1: 'check-watch', 2: 'cross-arms', 3: 'scratch-head', 4: 'sit-down', 5: 'get-up', 6: 'turn-around', 7: 'walking', 8: 'wave1', 9: 'boxing', 10: 'kicking', 11: 'pointing', 12: 'pick-up', 13: 'bending', 14: 'hands-clapping', 15: 'wave2', 16: 'jogging', 17: 'jumping', 18: 'pjump', 19: 'running'}
+Error loading weights: Weight count mismatch for layer #2 (named transformer_encoder_1 in the current model, transformer_encoder in the save file). Layer expects 64 weight(s). Received 96 saved weight(s)

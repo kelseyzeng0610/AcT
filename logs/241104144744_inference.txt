@@ -1,0 +1,2 @@
+Inference Started at 2024-11-04 14:47:44
+No GPUs found. Using CPU.

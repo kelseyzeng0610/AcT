@@ -1,0 +1,3 @@
+Inference Started at 2024-11-04 15:02:57
+No GPUs found. Using CPU.
+Weights file not found at: bin/AcT_micro.h5

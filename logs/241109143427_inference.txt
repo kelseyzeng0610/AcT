@@ -1,0 +1,9 @@
+Inference Started at 2024-11-09 14:34:27
+No GPUs found. Using CPU.
+Action Labels: {0: 'standing', 1: 'check-watch', 2: 'cross-arms', 3: 'scratch-head', 4: 'sit-down', 5: 'get-up', 6: 'turn-around', 7: 'walking', 8: 'wave1', 9: 'boxing', 10: 'kicking', 11: 'pointing', 12: 'pick-up', 13: 'bending', 14: 'hands-clapping', 15: 'wave2', 16: 'jogging', 17: 'jumping', 18: 'pjump', 19: 'running'}
+Model architecture loaded and weights applied successfully.
+Raw Predictions: [[-0.42207935 -0.49517947 -0.43259522 -0.37150684  3.4803026   0.10264029
+  -0.6379784  -0.43465787 -0.3585287   3.8356905  -0.36190405 -0.50437325
+  -0.5170163  -0.61757237 -0.50190365 -0.6223348  -0.60770386 -0.57859415
+  -0.616736   -0.13488707]]
+Predicted Action: boxing

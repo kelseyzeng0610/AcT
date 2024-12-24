@@ -1,0 +1,2 @@
+No GPUs found. Using CPU.
+Model setup failed: 'BATCH_SIZE'

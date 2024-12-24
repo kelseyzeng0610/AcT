@@ -1,0 +1,2880 @@
+Inference Started at 2024-11-04 15:14:13
+No GPUs found. Using CPU.
+No action labels defined in config.yaml. Using default labels.
+Model architecture loaded and weights applied successfully.
+Starting real-time action recognition. Press 'q' to exit.
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: Unknown
+Frame captured with shape: (720, 1280, 3)

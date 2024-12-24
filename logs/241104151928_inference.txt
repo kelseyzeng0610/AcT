@@ -1,0 +1,686 @@
+Inference Started at 2024-11-04 15:19:28
+No GPUs found. Using CPU.
+Model architecture loaded and weights applied successfully.
+Starting real-time action recognition. Press 'q' to exit.
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: walking
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)
+Predicted Action: scratch-head
+Frame captured with shape: (720, 1280, 3)

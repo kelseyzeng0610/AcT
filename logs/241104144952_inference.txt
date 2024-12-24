@@ -1,0 +1,3 @@
+Inference Started at 2024-11-04 14:49:52
+No GPUs found. Using CPU.
+Error loading weights: [Errno 2] Unable to open file (unable to open file: name = 'bin/AcT_micro.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)

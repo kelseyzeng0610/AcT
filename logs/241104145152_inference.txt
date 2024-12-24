@@ -1,0 +1,3 @@
+Inference Started at 2024-11-04 14:51:52
+No GPUs found. Using CPU.
+Model architecture loaded and weights applied successfully.
